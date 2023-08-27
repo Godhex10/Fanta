@@ -5,12 +5,12 @@
   box-sizing: border-box;
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
-  /* background-color: #c93402; */
+  /* background-color: #286335; */
 }
 .wrapper{
-  background: #c93402;
+  background: #286335;
   width: 100%;
-  height: 100%;
+  height: 153%;
 }
 .wrapper nav{
   position: relative;
@@ -173,7 +173,8 @@ nav .content .links{
 }
 
 .hero{
-    background-color: #c93402;
+    background-color: #286335;
+    height: 30%;
 }
 .hero-left{
     float: left;
@@ -203,7 +204,7 @@ nav .content .links{
     font-weight: 900;
     border: 1px solid #f8f8f8;
     margin-top: 35px;
-    background-color: #c93402;
+    background-color: #286335;
 }
 .hero-left .button:hover{
   background-color: #f8f8f821;
@@ -228,7 +229,7 @@ nav .content .links{
     border: none;
     margin-top: 35px;
     margin-left: 15px;
-    background-color: #c93402;
+    background-color: #286335;
 }
 
 .hero-right{
@@ -273,7 +274,7 @@ ul{
 	position: absolute;
 	left:0;
 	bottom: -10px;
-	background-color: #c93402;
+	background-color: #286335;
 	height: 2px;
 	box-sizing: border-box;
 	width: 50px;
@@ -292,7 +293,7 @@ ul{
 	transition: all 0.3s ease;
 }
 .footer-col ul li a:hover{
-	color: #c93402;
+	color: #286335;
 	padding-left: 8px;
 }
 .footer-col .social-links a{
@@ -308,9 +309,10 @@ ul{
 	transition: all 0.5s ease;
   background-color: #1e1e1e11;
 }
+
 .footer-col .social-links a:hover{
 	color: #f8f8f8;
-	background-color: #c93402;
+	background-color: #286335;
 }
 
 /*responsive*/
@@ -351,7 +353,7 @@ ul{
 @media screen and (max-width: 900px){
   
 .hero{
-  background-color: #c93402;
+  background-color: #286335;
   width: 100%;
   }
 
@@ -379,7 +381,7 @@ ul{
   nav .content .links{
     display: block;
     position: fixed;
-    background: #c93402;
+    background: #286335;
     height: 100%;
     width: 100%;
     top: 70px;
